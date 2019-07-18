@@ -1,0 +1,3 @@
+2019-07-18 13:55:46.513  INFO 2064 --- [main] c.m.d.a.AuthnacosApplicationTests        : No active profile set, falling back to default profiles: default
+2019-07-18 13:55:48.342  INFO 2064 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-18 13:55:48.802  INFO 2064 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 311ms. Found 3 repository interfaces.
